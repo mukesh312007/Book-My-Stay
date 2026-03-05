@@ -146,7 +146,7 @@ public class BookMyStayApp {
         // Search service
         RoomSearchService searchService = new RoomSearchService();
 
-        System.out.println("Hotel Room Search Results");
+        System.out.println("Hotel Room Search Result");
         System.out.println("-------------------------");
 
         searchService.searchAvailableRooms(
